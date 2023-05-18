@@ -16,7 +16,7 @@ const USER_CONFIG = {
   PROVINCE: '安徽',
   CITY: '合肥',
   
-  openUrl: 'https://www.ixigua.com',
+ openUrl: 'https://www.toutiao.com',
   
 
   USERS: [
@@ -26,7 +26,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'op0Rn69YXmIX82E0l3BBjyh8_SF0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'Dr_l3U1cP5h-KxouuwkPtMU5CnpZBaNZCfB9qjUw4Xs',
+      useTemplateId: 'WhZhg1BCIS4kjYVGpGc9oFA5DdHtuvLloZhYsAPQmLo',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-19',
       festivals: [
@@ -54,7 +54,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'V1oqUTcUf3txXXsWAfRu_BJnPK4rN_9AKOVD4hq34hM',
 
   CALLBACK_USERS: [
     {
