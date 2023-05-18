@@ -15,6 +15,8 @@ const USER_CONFIG = {
 
   PROVINCE: '安徽',
   CITY: '合肥',
+  
+  openUrl: 'https://www.toutiao.com',
 
   USERS: [
     {
